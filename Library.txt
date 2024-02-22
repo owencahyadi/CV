@@ -1,0 +1,2 @@
+npm install aos --save
+npm i @emailjs/browser
