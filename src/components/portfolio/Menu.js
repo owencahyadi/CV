@@ -3,6 +3,8 @@ import Work2 from "../../assets/work2.png";
 import Work3 from "../../assets/work3.png";
 import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
+import Work6 from "../../assets/work6.png";
+import Work7 from "../../assets/work7.png";
 
 const Menu = [
     {
@@ -31,14 +33,28 @@ const Menu = [
         image: Work4,
         title: "Leblanc",
         category: "PHP",
-        link: "http://restoran-if330-leblanc.infinityfreeapp.com/home.php",
+        link: "https://github.com/owencahyadi/UTS-Lec",
     },
     {
         id: 5,
         image: Work5,
         title: "Rumah Yatim & Dhuafa KKMB",
         category: "PHP",
-        link: "http://3.25.153.6/"
+        link: "https://github.com/owencahyadi/UASWeprogJadi"
+    },
+    {
+        id: 6,
+        image: Work6,
+        title : "UMN Festival",
+        category: "React",
+        link: "https://umnfest.com/"
+    },
+    {
+        id: 7,
+        image: Work7,
+        title: "Fokus Ultimagz",
+        category: "React",
+        link: "https://fokus.ultimagz.com/articles/budaya/"
     }
 ];
 

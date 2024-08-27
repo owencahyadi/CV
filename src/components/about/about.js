@@ -23,7 +23,7 @@ const About = () => {
                     <div className="about_skills grid">
                         <div className="skills_data">
                             <div className="skills_title">
-                                <h3 className="skills_name">HTML, CSS, JS</h3>
+                                <h3 className="skills_name">HTML/CSS, React</h3>
                                 <span className="skills_number">100%</span>
                             </div>
 
@@ -34,7 +34,7 @@ const About = () => {
 
                         <div className="skills_data">
                             <div className="skills_title">
-                                <h3 className="skills_name">React</h3>
+                                <h3 className="skills_name">Java, Python</h3>
                                 <span className="skills_number">90%</span>
                             </div>
 
@@ -45,8 +45,8 @@ const About = () => {
 
                         <div className="skills_data">
                             <div className="skills_title">
-                                <h3 className="skills_name">PHP, MYSQL</h3>
-                                <span className="skills_number">80%</span>
+                                <h3 className="skills_name">PHP, Laravel, MYSQL</h3>
+                                <span className="skills_number">90%</span>
                             </div>
 
                             <div className="skills_bar">
