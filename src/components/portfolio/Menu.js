@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
 import Work6 from "../../assets/work6.png";
 import Work7 from "../../assets/work7.png";
+import Work8 from "../../assets/work8.png"
 
 const Menu = [
     {
@@ -52,9 +53,16 @@ const Menu = [
     {
         id: 7,
         image: Work7,
-        title: "Fokus Ultimagz",
+        title: "Fokus Ultimagz SENI DAN BUDAYA",
         category: "React",
         link: "https://fokus.ultimagz.com/articles/budaya/"
+    },
+    {
+        id: 8,
+        image: Work8,
+        title: "Fokus Ultimagz SIDE HUSTLE",
+        category: "React",
+        link: "https://fokus.ultimagz.com/articles/side-hustle/"
     }
 ];
 

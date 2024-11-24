@@ -17,7 +17,7 @@ const About = () => {
                         I am very happy and interested in website development.
                         I want to have a lot of experience in creating websites.
                         </p>
-                        <a href="./CV.pdf" className="btn" download>Download CV</a>
+                        <a href="/CV.pdf" className="btn" download>Download CV</a>
                     </div>
 
                     <div className="about_skills grid">
