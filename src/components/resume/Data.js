@@ -28,8 +28,8 @@ const Data = [
         category: "experience",
         icon: "icon-briefcase",
         year: "Feb 2025 - Desc 2025",
-        title: "Internship PT Gerbang Govokasi Indonesia",
-        desc: "Web Developer",
+        title: "PT Gerbang Govokasi Indonesia",
+        desc: "Web Developer Intern",
     },
     {
         id: 5,
