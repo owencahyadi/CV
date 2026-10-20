@@ -27,12 +27,20 @@ const Data = [
         id: 4,
         category: "experience",
         icon: "icon-briefcase",
+        year: "Feb 2025 - Desc 2025",
+        title: "Internship PT Gerbang Govokasi Indonesia",
+        desc: "Web Developer",
+    },
+    {
+        id: 5,
+        category: "experience",
+        icon: "icon-briefcase",
         year: "2024 - 2025",
         title: "Asisten Laboratorium FTI",
         desc: "Pengantar Teknologi Internet, Algoritma Struktur Data, Pemrograman Web, Mobile Aplication Programming",
     },
     {
-        id: 5,
+        id: 6,
         category: "experience",
         icon: "icon-briefcase",
         year: "2024 - 2025",
@@ -40,20 +48,12 @@ const Data = [
         desc: "Website",
     },
     {
-        id: 6,
+        id: 7,
         category: "experience",
         icon: "icon-briefcase",
         year: "2023 - 2025",
         title: "Ultimagz",
         desc: "IT",
-    },
-    {
-        id: 7,
-        category: "experience",
-        icon: "icon-briefcase",
-        year: "Feb 2025 - Desc 2025",
-        title: "Internship PT Gerbang Govokasi Indonesia",
-        desc: "Web Developer",
     },
 ];
 
